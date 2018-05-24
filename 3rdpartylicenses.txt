@@ -126,6 +126,14 @@ MIT
 MIT
 MIT
 
+@angular/router@5.2.11
+MIT
+MIT
+
+pexels-api-wrapper@1.0.9
+ISC
+ISC
+
 @angular/platform-browser-dynamic@5.2.11
 MIT
 MIT
